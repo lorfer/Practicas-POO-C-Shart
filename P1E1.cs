@@ -1,4 +1,4 @@
-//Practica 1 Ejercicio 1; P1E1.cs
+//Practica 1 Ejercicio 1; P1E1.cs 
 /*
 	1 - Guarde en una variable entera el numero 50, y en otra variable entera el
 	numero 51. y muestre el resultado de multiplicar ambos números.
@@ -14,5 +14,7 @@ class program
 		 double resultado = num * num2; 
 		
 		System.Console.WriteLine("El resultado de multiplicar " + num + " por " + num2 + " Es igual a " + resultado );
+		
+		Console.ReadKey();
 	}
 }
